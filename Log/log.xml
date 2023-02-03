@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-03T16:47:11.227814800Z</date>
+  <millis>1675442831227</millis>
+  <nanos>814800</nanos>
+  <sequence>0</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.Calculator</class>
+  <method>startCalc</method>
+  <thread>1</thread>
+  <message>Что бы закрыть калькулятор введите в консоль 'Q' или 'q'
+Для обнуления результатов используйте 'c' или 'C' </message>
+</record>
+<record>
+  <date>2023-02-03T16:47:14.156772900Z</date>
+  <millis>1675442834156</millis>
+  <nanos>772900</nanos>
+  <sequence>1</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.Calculator</class>
+  <method>inputNumber</method>
+  <thread>1</thread>
+  <message>5.0</message>
+</record>
+<record>
+  <date>2023-02-03T16:47:15.871806900Z</date>
+  <millis>1675442835871</millis>
+  <nanos>806900</nanos>
+  <sequence>2</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.Calculator</class>
+  <method>operatorChoice</method>
+  <thread>1</thread>
+  <message>- </message>
+</record>
+<record>
+  <date>2023-02-03T16:47:17.222831400Z</date>
+  <millis>1675442837222</millis>
+  <nanos>831400</nanos>
+  <sequence>3</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.Calculator</class>
+  <method>inputNumber</method>
+  <thread>1</thread>
+  <message>5.0</message>
+</record>
+<record>
+  <date>2023-02-03T16:47:17.224830700Z</date>
+  <millis>1675442837224</millis>
+  <nanos>830700</nanos>
+  <sequence>4</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.Calculator</class>
+  <method>startCalc</method>
+  <thread>1</thread>
+  <message>0.0</message>
+</record>
+<record>
+  <date>2023-02-03T16:47:19.671609700Z</date>
+  <millis>1675442839671</millis>
+  <nanos>609700</nanos>
+  <sequence>5</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.Calculator</class>
+  <method>operatorChoice</method>
+  <thread>1</thread>
+  <message>q </message>
+</record>
+<record>
+  <date>2023-02-03T16:47:19.672611200Z</date>
+  <millis>1675442839672</millis>
+  <nanos>611200</nanos>
+  <sequence>6</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.Calculator</class>
+  <method>startCalc</method>
+  <thread>1</thread>
+  <message>Выход</message>
+</record>
+</log>
