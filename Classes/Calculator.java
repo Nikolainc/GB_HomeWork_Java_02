@@ -304,7 +304,7 @@ public class Calculator {
 
         _log = Logger.getLogger(Calculator.class.getName());
 
-        FileHandler fh = new FileHandler("log/log.xml");
+        FileHandler fh = new FileHandler("log/logCalc.xml");
         fh.setEncoding("UTF-8");
         _log.addHandler(fh);
 

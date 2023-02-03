@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-03T17:14:12.071638500Z</date>
+  <millis>1675444452071</millis>
+  <nanos>638500</nanos>
+  <sequence>10</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>7 &gt;&gt;&gt; 0</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.072662800Z</date>
+  <millis>1675444452072</millis>
+  <nanos>662800</nanos>
+  <sequence>11</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>7 &gt;&gt;&gt; 1</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.081691900Z</date>
+  <millis>1675444452081</millis>
+  <nanos>691900</nanos>
+  <sequence>12</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>7 &gt;&gt;&gt; 4</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.082693300Z</date>
+  <millis>1675444452082</millis>
+  <nanos>693300</nanos>
+  <sequence>13</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>7 &gt;&gt;&gt; 5</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.083690800Z</date>
+  <millis>1675444452083</millis>
+  <nanos>690800</nanos>
+  <sequence>14</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>7 &gt;&gt;&gt; 2</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.085198300Z</date>
+  <millis>1675444452085</millis>
+  <nanos>198300</nanos>
+  <sequence>15</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>7 &gt;&gt;&gt; 0</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.087206800Z</date>
+  <millis>1675444452087</millis>
+  <nanos>206800</nanos>
+  <sequence>16</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>10 &gt;&gt;&gt; 4</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.089206800Z</date>
+  <millis>1675444452089</millis>
+  <nanos>206800</nanos>
+  <sequence>17</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>5 &gt;&gt;&gt; 0</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.090206800Z</date>
+  <millis>1675444452090</millis>
+  <nanos>206800</nanos>
+  <sequence>18</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>5 &gt;&gt;&gt; 1</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.091209400Z</date>
+  <millis>1675444452091</millis>
+  <nanos>209400</nanos>
+  <sequence>19</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>5 &gt;&gt;&gt; 4</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.092208700Z</date>
+  <millis>1675444452092</millis>
+  <nanos>208700</nanos>
+  <sequence>20</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>5 &gt;&gt;&gt; 2</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.093208600Z</date>
+  <millis>1675444452093</millis>
+  <nanos>208600</nanos>
+  <sequence>21</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>5 &gt;&gt;&gt; 0</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.094206700Z</date>
+  <millis>1675444452094</millis>
+  <nanos>206700</nanos>
+  <sequence>22</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>7 &gt;&gt;&gt; 4</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.095206300Z</date>
+  <millis>1675444452095</millis>
+  <nanos>206300</nanos>
+  <sequence>23</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>5 &gt;&gt;&gt; 2</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.096206Z</date>
+  <millis>1675444452096</millis>
+  <nanos>206000</nanos>
+  <sequence>24</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>5 &gt;&gt;&gt; 0</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.097206Z</date>
+  <millis>1675444452097</millis>
+  <nanos>206000</nanos>
+  <sequence>25</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>5 &gt;&gt;&gt; 4</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.097206Z</date>
+  <millis>1675444452097</millis>
+  <nanos>206000</nanos>
+  <sequence>26</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>4 &gt;&gt;&gt; 2</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.098205900Z</date>
+  <millis>1675444452098</millis>
+  <nanos>205900</nanos>
+  <sequence>27</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>4 &gt;&gt;&gt; 0</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.099208800Z</date>
+  <millis>1675444452099</millis>
+  <nanos>208800</nanos>
+  <sequence>28</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>5 &gt;&gt;&gt; 4</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.100208800Z</date>
+  <millis>1675444452100</millis>
+  <nanos>208800</nanos>
+  <sequence>29</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>2 &gt;&gt;&gt; 0</message>
+</record>
+<record>
+  <date>2023-02-03T17:14:12.101207300Z</date>
+  <millis>1675444452101</millis>
+  <nanos>207300</nanos>
+  <sequence>30</sequence>
+  <logger>Classes.Calculator</logger>
+  <level>INFO</level>
+  <class>Classes.ArraySort</class>
+  <method>Sort</method>
+  <thread>1</thread>
+  <message>1 &gt;&gt;&gt; 0</message>
+</record>
+</log>
